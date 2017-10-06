@@ -12,7 +12,7 @@ Reads map
     * [ [Course] Server Side Swift by Paul Hudson](Reads/Swift/Server-Side-Swift_by_Paul_Hudson)
 
 * [Architecture](Reads/Architecture):
-    *[Design Patterns - Explained Simply by Alexander Shvets](Reads/Architecture/DesignPatternsExplainedSimply.pdf)
+    * [Design Patterns - Explained Simply by Alexander Shvets](Reads/Architecture/DesignPatternsExplainedSimply.pdf)
 
 ## How you can help?
 
